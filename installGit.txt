@@ -7,3 +7,5 @@ download git for windows
  
   git clone https://github.com/fac168/Troop675ProgrammingMB.git
 
+	git config --global credential.helper wincred
+
