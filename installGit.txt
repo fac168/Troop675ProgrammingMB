@@ -1,0 +1,7 @@
+download git for windows
+
+	https://gitforwindows.org/
+	
+ 
+git clone https://github.com/fac168/Troop675ProgrammingMB.git
+
