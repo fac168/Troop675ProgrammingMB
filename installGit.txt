@@ -2,6 +2,8 @@ download git for windows
 
 	https://gitforwindows.org/
 	
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
  
-git clone https://github.com/fac168/Troop675ProgrammingMB.git
+  git clone https://github.com/fac168/Troop675ProgrammingMB.git
 
