@@ -8,4 +8,27 @@ download git for windows
   git clone https://github.com/fac168/Troop675ProgrammingMB.git
 
 	git config --global credential.helper wincred
+	
+	
+-------
+
+	download c compiler
+
+Install Mingw-w64 via the SourceForge website. Click 
+
+https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe/download
+
+Mingw-w64 to download the Windows Mingw-w64 installer.
+
+Run the installer.
+For Architecture select x86_64 and then select Next.
+Next again to use the default installation folder and install MinGW.
+
+Add the path to your Mingw-w64 bin folder to the Windows PATH environment variable
+
+g++ --version
+
+to compile a c program:
+
+g++ helloWorld.c -o helloWorld
 
